@@ -3,7 +3,7 @@
 
 | Database      | Location                               |
 | ------------- | ---------------------------------------|
-| Users         | [USERSDB](https://github.com/MaxiDrive/Docs/tree/docs/Diagrams/DatabaseEdit/Users/Scripts) |
+| Users         | [USERSDB](#users-database) |
 
 ## Users database
 ### E/R model
